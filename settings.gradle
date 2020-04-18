@@ -1,0 +1,2 @@
+rootProject.name='TestCodeForRoomRecyclerView'
+include ':app'
